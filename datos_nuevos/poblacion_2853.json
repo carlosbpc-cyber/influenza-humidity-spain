@@ -1,0 +1,241 @@
+[{"COD":"DPOP1", "Nombre":"Total Nacional. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":4.7385107E7, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":4.7450795E7, "Secreto":false}
+]
+}
+,{"COD":"DPOP2", "Nombre":"Total Nacional. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2.3222953E7, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2.325559E7, "Secreto":false}
+]
+}
+,{"COD":"DPOP3", "Nombre":"Total Nacional. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2.4162154E7, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2.4195205E7, "Secreto":false}
+]
+}
+,{"COD":"DPOP24496", "Nombre":"Andalucía. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":8472407.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":8464411.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24497", "Nombre":"Andalucía. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":4173339.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":4170605.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24498", "Nombre":"Andalucía. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":4299068.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":4293806.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24499", "Nombre":"Aragón. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1326261.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1329391.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24500", "Nombre":"Aragón. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":655248.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":656056.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24501", "Nombre":"Aragón. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":671013.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":673335.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24502", "Nombre":"Asturias, Principado de. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1011792.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1018784.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24503", "Nombre":"Asturias, Principado de. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":482665.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":486066.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24504", "Nombre":"Asturias, Principado de. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":529127.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":532718.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24505", "Nombre":"Balears, Illes. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1173008.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1171543.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24506", "Nombre":"Balears, Illes. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":584853.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":584298.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24507", "Nombre":"Balears, Illes. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":588155.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":587245.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24508", "Nombre":"Canarias. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2172944.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2175952.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24509", "Nombre":"Canarias. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1074180.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1076185.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24510", "Nombre":"Canarias. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1098764.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1099767.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24511", "Nombre":"Cantabria. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":584507.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":582905.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24512", "Nombre":"Cantabria. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":283378.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":282559.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24513", "Nombre":"Cantabria. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":301129.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":300346.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24514", "Nombre":"Castilla y León. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2383139.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2394918.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24515", "Nombre":"Castilla y León. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1173114.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1178846.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24516", "Nombre":"Castilla y León. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1210025.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1216072.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24517", "Nombre":"Castilla - La Mancha. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2049562.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2045221.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24518", "Nombre":"Castilla - La Mancha. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1026128.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1023740.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24519", "Nombre":"Castilla - La Mancha. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1023434.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1021481.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24520", "Nombre":"Cataluña. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":7763362.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":7780479.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24521", "Nombre":"Cataluña. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":3819831.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":3826964.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24522", "Nombre":"Cataluña. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":3943531.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":3953515.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24523", "Nombre":"Comunitat Valenciana. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":5058138.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":5057353.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24524", "Nombre":"Comunitat Valenciana. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2491394.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2492121.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24525", "Nombre":"Comunitat Valenciana. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2566744.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2565232.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24526", "Nombre":"Extremadura. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1059501.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1063987.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24527", "Nombre":"Extremadura. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":523976.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":526288.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24528", "Nombre":"Extremadura. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":535525.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":537699.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24529", "Nombre":"Galicia. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2695645.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2701819.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24530", "Nombre":"Galicia. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1297301.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1300153.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24531", "Nombre":"Galicia. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1398344.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1401666.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24532", "Nombre":"Madrid, Comunidad de. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":6751251.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":6779888.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24533", "Nombre":"Madrid, Comunidad de. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":3229700.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":3243793.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24534", "Nombre":"Madrid, Comunidad de. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":3521551.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":3536095.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24535", "Nombre":"Murcia, Región de. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1518486.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1511251.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24536", "Nombre":"Murcia, Región de. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":760362.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":756699.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24537", "Nombre":"Murcia, Región de. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":758124.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":754552.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24538", "Nombre":"Navarra, Comunidad Foral de. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":661537.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":661197.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24539", "Nombre":"Navarra, Comunidad Foral de. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":327465.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":327226.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24540", "Nombre":"Navarra, Comunidad Foral de. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":334072.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":333971.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24541", "Nombre":"País Vasco. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":2213993.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":2220504.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24542", "Nombre":"País Vasco. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1076385.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1079452.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24543", "Nombre":"País Vasco. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":1137608.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":1141052.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24544", "Nombre":"Rioja, La. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":319796.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":319914.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24545", "Nombre":"Rioja, La. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":157823.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":157835.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24546", "Nombre":"Rioja, La. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":161973.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":162079.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24484", "Nombre":"Ceuta. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":83517.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":84202.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24485", "Nombre":"Ceuta. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":42208.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":42542.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24486", "Nombre":"Ceuta. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":41309.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":41660.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24490", "Nombre":"Melilla. Total. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":86261.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":87076.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24491", "Nombre":"Melilla. Hombres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":43603.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":44162.0, "Secreto":false}
+]
+}
+,{"COD":"DPOP24492", "Nombre":"Melilla. Mujeres. Total habitantes. Personas. ", "FK_Unidad":3, "FK_Escala":1, "Data":[{"Fecha":1609455600000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2021, "Valor":42658.0, "Secreto":false}
+,{"Fecha":1577833200000, "FK_TipoDato":1, "FK_Periodo":28, "Anyo":2020, "Valor":42914.0, "Secreto":false}
+]
+}
+]

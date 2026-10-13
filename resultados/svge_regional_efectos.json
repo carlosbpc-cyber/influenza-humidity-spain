@@ -1,0 +1,96 @@
+{
+ "solo temporada": {
+  "n": 112,
+  "R2": 0.64
+ },
+ "entre comunidades: edad": {
+  "p65": [
+   -0.09,
+   -0.21,
+   0.03,
+   0.125
+  ],
+  "n": 112,
+  "R2": 0.66
+ },
+ "entre comunidades: niños": {
+  "p0_14": [
+   0.3,
+   0.01,
+   0.58,
+   0.042
+  ],
+  "n": 112,
+  "R2": 0.66
+ },
+ "entre comunidades: humedad media": {
+  "q_media": [
+   -0.08,
+   -0.54,
+   0.38,
+   0.726
+  ],
+  "n": 112,
+  "R2": 0.65
+ },
+ "entre comunidades: llegadas e islas": {
+  "np.log(llegadas)": [
+   0.84,
+   0.07,
+   1.62,
+   0.033
+  ],
+  "isla": [
+   -2.25,
+   -4.67,
+   0.18,
+   0.07
+  ],
+  "n": 112,
+  "R2": 0.67
+ },
+ "entre comunidades: todo": {
+  "p65": [
+   -0.11,
+   -0.26,
+   0.04,
+   0.16
+  ],
+  "q_media": [
+   -0.38,
+   -0.97,
+   0.21,
+   0.205
+  ],
+  "np.log(llegadas)": [
+   0.24,
+   -0.24,
+   0.72,
+   0.332
+  ],
+  "n": 112,
+  "R2": 0.67
+ },
+ "dentro: anomalía humedad": {
+  "q_anom": [
+   1.98,
+   1.19,
+   2.77,
+   0.0
+  ],
+  "n": 112,
+  "R2": 0.74
+ },
+ "dentro: anomalía temperatura": {
+  "T_anom": [
+   0.11,
+   -0.83,
+   1.05,
+   0.82
+  ],
+  "n": 112,
+  "R2": 0.72
+ },
+ "R2 temporada+comunidad": 0.72,
+ "DE_intra_temporada": 1.59
+}

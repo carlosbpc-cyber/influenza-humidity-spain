@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archived version."
+title: "Humidity anomalies, influenza timing and an age-structured regional model for Spain: code and data"
+authors:
+  - family-names: "Báguena Pérez-Crespo"
+    given-names: "Carlos"
+    affiliation: "Hospital General Universitario Reina Sofía, Murcia, Spain"
+  # add co-authors here
+version: "1.0.0"
+date-released: "2026-10-13"
+license: MIT
+repository-code: "https://github.com/carlosbpc-cyber/influenza-humidity-spain"
+keywords: [influenza, seasonality, absolute humidity, Europe, Spain, transmission model]

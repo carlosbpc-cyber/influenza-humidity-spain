@@ -1,0 +1,92 @@
+{
+ "mediana:wolf": {
+  "FE_ambos": [
+   0.4,
+   0.546
+  ],
+  "FE_pais": [
+   -0.66,
+   0.446
+  ]
+ },
+ "mediana:koel": {
+  "FE_ambos": [
+   -0.39,
+   0.676
+  ],
+  "FE_pais": [
+   -0.45,
+   0.711
+  ]
+ },
+ "mediana:titer_tree_model": {
+  "FE_ambos": [
+   -0.13,
+   0.853
+  ],
+  "FE_pais": [
+   -2.12,
+   0.003
+  ]
+ },
+ "pico:wolf": {
+  "FE_ambos": [
+   -0.02,
+   0.976
+  ],
+  "FE_pais": [
+   -0.21,
+   0.79
+  ]
+ },
+ "pico:koel": {
+  "FE_ambos": [
+   -0.73,
+   0.564
+  ],
+  "FE_pais": [
+   -0.18,
+   0.872
+  ]
+ },
+ "pico:titer_tree_model": {
+  "FE_ambos": [
+   -1.23,
+   0.248
+  ],
+  "FE_pais": [
+   -1.88,
+   0.009
+  ]
+ },
+ "lpos:wolf": {
+  "FE_ambos": [
+   -0.03,
+   0.779
+  ],
+  "FE_pais": [
+   0.51,
+   0.025
+  ]
+ },
+ "lpos:koel": {
+  "FE_ambos": [
+   -0.05,
+   0.836
+  ],
+  "FE_pais": [
+   0.51,
+   0.141
+  ]
+ },
+ "lpos:titer_tree_model": {
+  "FE_ambos": [
+   0.02,
+   0.906
+  ],
+  "FE_pais": [
+   0.86,
+   0.0
+  ]
+ }
+}

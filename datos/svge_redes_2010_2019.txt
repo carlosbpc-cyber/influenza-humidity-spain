@@ -1,0 +1,130 @@
+# SVGE (CNE-ISCIII), informes anuales "Vigilancia de la gripe en España", Tabla 3: actividad gripal por red centinela.
+# Columnas: red | semana pico | tasa pico (/100.000) | grupo de edad más afectado | intensidad máxima | difusión | semana de máxima detección viral | virus
+## 2010
+Andalucía 04/2011 247.84 5 ‐ 14 y 0 ‐ 4 a. Alta Epidémica 06/2011 AnH1N1/B
+Aragón 03/2011 293.13 5 ‐ 14 y 0 ‐ 4 a. Media Epidémica 03/2011 AnH1N1
+Asturias 01/2011 587.31 <15 años Alta Epidémica 52/2010 AnH1N1
+Baleares 01/2011 174.64 < 15 años Alta Local 52/2010 AnH1N1
+Canarias 04/2011 495.93 5 ‐ 14 y 0 ‐ 4 a. Alta Epidémica 02/2011 AnH1N1
+Cantabria 02/2011 363.19 0 ‐ 4 y 5 ‐ 65 a. Alta Epidémica 04/2011 AnH1N1
+Castilla La Mancha 02/2011 257.71 5 ‐ 14 y 0 ‐ 4 a. Media Local 01/2011 AnH1N1
+Castilla y León 03/2011 269.75 < 15 años Media Epidémica 03/2011 AnH1N1
+Cataluña 06/2011 270.43 < 15 años Alta Epidémica 03/2011 AnH1N1
+Extremadura 04/2011 378.54 5 ‐ 14 y 0 ‐ 4 a. Alta Epidémica 01/2011 AnH1N1
+Madrid 04/2011 125.45 5 ‐ 14 y 0 ‐ 4 a. Media Epidémica 01/2011 AnH1N1
+Navarra 02/2011 405.76 Alta Epidémica 01/2011 AnH1N1
+País Vasco 02/2011 366.82 < 15 años Alta Epidémica 01/2011 AnH1N1
+La Rioja 02/2011 392.77 < 15 años Alta Epidémica 51/2010 AnH1N1
+Global nacional 02/2011 240.17 5 ‐ 14 y 0 ‐ 4 a. Media Epidémica 01/2011 AnH1N1
+## 2011
+Andalucía 5/2012 218,08 Menores de 15 años Medio Epidémico 6/2012 A(H3N2)
+Aragón 5/2012 531,49 Menores de 15 años Alto Epidémico 7/2012 A(H3)
+Asturias 6/2012 397,73 Menores de 15 años Alto Epidémico 7/2012 A(H3N2)
+Baleares 8/2012 136,38 Menores de 15 años Alto Epidémico 8/2012 A(H3N2)
+Canarias 6/2012 269,57 Menores de 15 años Alto Epidémico 8-9/2012 A(H3)
+Cantabria 7/2012 455,49 Menores de 15 años Alto Epidémico 4-5/2012 A(H3N2)
+Castilla La Mancha 4/2012 331,32 Menores de 15 años Alto Epidémico 4/2012 A(H3N2)
+Castilla y León 6/2012 297,93 Menores de 15 años Medio Epidémico 8/2012 A(H3)
+Cataluña 7/2012 461,13 Menores de 15 años Muy Alto Epidémico 8/2012 A(H3)
+Extremadura 7/2012 466,90 Menores de 15 años Medio Epidémico 8/2012 A(H3N2)
+Madrid 3/2012 117,91 Menores de 15 años Medio Epidémico 52/2011 A(H3N2)
+Navarra 7/2012 359,75 Menores de 15 años Alto Epidémico 8/2012 A(H3)
+País Vasco 7/2012 341,05 Menores de 15 años Alto Epidémico 9/2012 A(H3)
+La Rioja 4/2012 281,61 Menores de 15 años Medio Epidémico 6/2012 A(H3)/B
+Global nacional 7/2012 251,24 Menores de 15 años Medio Epidémico 8/2012 A(H3)
+## 2012
+Andalucía 8/2013 254,56 < 15 años Medio Epidémico 9/2013 B
+Aragón 5/2013 252,99 < 15 años Alto Epidémico 7/2013 B
+Asturias 4/2013 385,9 < 15 años Alto Epidémico 5/2013 B
+Baleares 8/2013 207,99 < 15 años Muy Alto Epidémico 7/2013 B
+Canarias 7/2013 348,04 < 15 años Alto Epidémico 5-7/2013 B/A(H1N1)pdm09
+Cantabria 9/2013 180,02 < 15 años Medio Epidémico 6/2013 B
+Castilla La Mancha 10/2013 269,3 < 15 años Alto Epidémico 9/2013 B
+Castilla y León 10/2013 311,19 < 15 años Medio Epidémico 12/2013 B
+Cataluña 6/2013 430,7 < 15 años Alto Epidémico 6/2013 B
+Extremadura 10/2013 211,37 < 15 años Medio Epidémico 8/2013 B/A(H1N1)pdm09
+Madrid 8/2013 174,62 < 15 años Alto Epidémico 7/2013 B/A(H1N1)pdm09
+Navarra 8/2013 260,22 < 15 años Medio Epidémico 12/2013 B
+País Vasco 8/2013 318,89 < 15 años Alto Epidémico 9/2013 B
+La Rioja 4/2013 257,17 < 15 años Medio Epidémico 9/2013 B
+Global nacional 8/2013 229,44 < 15 años Medio Epidémico 7/2013 B
+## 2013
+Andalucía 4/2014 256,62 < 15 años Medio Epidémico 3/2014 A(H1N1)pdm09
+Aragón 3/2014 614,43 < 15 años Alto Epidémico 2/2014 A(H1N1)pdm09
+Asturias 4/2014 489,87 < 15 años Alto Epidémico 1/2014 A(H1N1)pdm09
+Baleares 5/2014 132,33 < 15 años Medio Epidémico 2/2014 A(H1N1)pdm09
+Canarias 6/2014 177,86 < 15 años Medio Epidémico 4/2014 A(H1N1)pdm09
+Cantabria 4/2014 255,50 < 15 años Alto Epidémico 4/2014 A(H1N1)pdm09
+Castilla La Mancha 4/2014 294,03 < 15 años Alto Epidémico 4/2014 A(H1N1)pdm09
+Castilla y León 3/2014 284,30 < 15 años Medio Epidémico 4/2014 A(H1N1)pdm09
+Cataluña 4/2014 453,49 < 15 años Alto Epidémico 6/2014 A(H3N2)
+Extremadura 3/2014 228,23 5-14 años Medio Epidémico 2/2014 A(H1N1)pdm09
+Madrid 4/2014 159,13 < 15 años Medio Epidémico 1/2014 A(H1N1)pdm09
+Navarra 3/2014 447,76 < 15 años Alto Epidémico 3/2014 A(H3N2)
+País Vasco 3/2014 350,35 < 15 años Alto Epidémico 2/2014 A(H1N1)pdm09
+La Rioja 3/2014 485,53 < 15 años Alto Epidémico 4/2014 A(H3N2)
+Global nacional 4/2014 229,44 Menores de 15 años Medio Epidémico 3/2014
+## 2014
+Andalucía 4/2015 306,55 5-14 años Medio Epidémico 3/2015 A(H3N2)
+Aragón 5/2015 500,59 <15 años Alto Epidémico 8/2015 A(H3N2)
+Asturias 4/2015 497,08 0-4 años Medio Epidémico 3/2015 A(H3N2)
+Baleares 7/2015 228,20 5-14 años Alto Epidémico 9/2015 A(H3N2)
+Canarias 5/2015 280,41 5-14 años Medio Epidémico 4/2015 B
+Cantabria 5/2015 279,24 5-14 años Alto Epidémico 3/2015 A(H3N2)
+Castilla La Mancha 5/2015 448,14 5-14 años Medio Epidémico 5/2015 A(H3N2)
+Castilla y León 5/2015 563,39 0-4 años Alto Epidémico 5/2015 A(H3N2)
+Cataluña 7/2015 458,88 0-4 años Alto Epidémico 8/2015 A(H3N2)
+Extremadura 5/2015 511,86 5-14 años Alto Epidémico 1/2015 A(H3N2)/B
+Madrid 5/2015 314,49 5-14 años Alto Epidémico 5/2015 A(H3N2)/B
+Navarra 7/2015 335,87 0-4 años Alto Epidémico 8/2015 A(H3N2)/B
+País Vasco 5/2015 549,90 < 15 años Medio Epidémico 7/2015 A(H3N2)
+La Rioja 5/2015 283,84 5-14 años Medio Epidémico 6/2015 A(H3N2)/B
+Global nacional 5/2015 348,10 5-14 años Medio Epidémico 7/2015 A(H3N2)
+## 2015
+Andalucía 8/2016 116,06 5-14 años Bajo Epidémico 12/2016 An(H1N1)pdm09/B
+Aragón 10/2016 624,96 0-4 años Alto Epidémico 9/2016 An(H1N1)pdm09/B
+Asturias 6/2016 296,32 0-4 años Bajo Epidémico 6/2016 An(H1N1)pdm09
+Baleares 10/2016 123,92 5-14 años Medio Epidémico 5/2016 An(H1N1)pdm09/B
+Canarias 5/2016 255,51 5-14 años Medio Epidémico 5/2016 An(H1N1)pdm09/B
+Cantabria 6/2016 292,84 0-4 años Medio Epidémico 7/2016 An(H1N1)pdm09
+Castilla La Mancha 11/2016 266,17 0-4 años Medio Epidémico 8/2016 An(H1N1)pdm09
+Castilla y León 4/2016 220,54 0-4 años Bajo Epidémico 11/2016 An(H1N1)pdm09
+Cataluña 9/2016 355,27 0-4 años Medio Epidémico 10/2016 B/An(H1N1)pdm09
+Comunitat Valenciana 11/2016 363,27 5-14 años Alto Epidémico 11/2016 B/An(H1N1)pdm09
+Extremadura 8/2016 147,78 0-4 años Bajo Epidémico 8/2016 An(H1N1)pdm09
+Madrid 11/2016 153,48 0-4 años Medio Epidémico 10/2016 An(H1N1)pdm09
+Navarra 4/2016 420,89 0-4 años Medio Epidémico 10/2016 An(H1N1)pdm09
+País Vasco 5/2016 413,01 0-4 años Medio Epidémico 15/2016 An(H1N1)pdm09
+La Rioja 8/2016 275,98 0-4 años Medio Epidémico 11/2016 An(H1N1)pdm09
+Global nacional 8/2016 195,17 0-4 años Bajo Epidémico 12/2016 An(H1N1)pdm09
+## 2016
+Andalucía 3/2017 180,10 5-14 años Medio Epidémico 4/2017 A(H3N2)
+Aragón 3/2017 406,54 5-14 años Medio Epidémico 1/2017 A(H3N2)
+Asturias 52/2016 593,82 0-4 años Alto Epidémico 49/2016 A(H3N2)
+Baleares 1/2017 108,52 5-14 años Medio Epidémico 52/2016 A(H3N2)
+Canarias 47/2016 145,52 5-14 años Bajo Local 46/2016 A(H3N2)
+Cantabria 2/2017 414,53 0-4 años Medio Epidémico 3/2017 A(H3N2)
+Castilla La Mancha 4/2017 308,92 5-14 años Medio Epidémico 3/2017 A(H3N2)
+Castilla y León 3/2017 436,96 0-4 años Alto Epidémico 1/2017 A(H3N2)
+Cataluña 1/2017 337,29 0-4 años Medio Epidémico 52/2016 A(H3N2)
+Extremadura 2/2017 336,37 0-4 años Medio Epidémico 2/2017 A(H3N2)
+Madrid 3/2017 196,46 0-4 años Medio Epidémico 2/2017 A(H3N2)
+Navarra 2/2017 456,91 0-4 años Alto Epidémico 1/2017 A(H3N2)
+País Vasco 3/2017 425,17 0-4 años Medio Epidémico 3/2017 A(H3N2)
+La Rioja 2/2017 368,46 0-4 años Medio Epidémico 1/2017 A(H3N2)
+Global nacional 3/2017 229,10 0-4 años Medio Epidémico 52/2016 A(H3N2)
+## 2018
+Andalucía 5/2019 NA 0-4 años Bajo Epidémico 7/2019 A(H1N1)pdm09/A(H3N2)
+Asturias 4/2019 NA 0-4 años Medio Epidémico 4/2019 A(H3N2)
+Baleares 5/2019 NA 0-4 años Medio Epidémico 3/2019 A(H3N2)
+Canarias 3/2019 NA 5-14 años Bajo Epidémico 3/2019 A(H1N1)pdm09/A(H3N2)
+Cantabria 3/2019 NA 0-4 años Muy Alto Epidémico 4/2019 A(H1N1)pdm09/A(H3N2)
+Castilla La Mancha 4/2019 NA 0-4 años Medio Epidémico 6/2019 A(H3N2)
+Castilla y León 5/2019 NA 0-4 años Medio Epidémico 5/2019 A(H3N2)/A(H1N1)pdm09
+Cataluña 5/2019 NA 0-4 años Medio Epidémico 4/2019 A(H1N1)pdm09/A(H3N2)
+Extremadura 7/2019 NA 0-4 años Bajo Local 5/2019 A(H3N2)
+Madrid 5/2019 NA 0-4 años Alto Epidémico 4/2019 A(H3N2)
+Navarra 4/2019 NA 5-14 años Alto Epidémico 3/2019 A(H1N1)pdm09/A(H3N2)
+País Vasco 3/2019 NA 0-4 años Muy Alto Epidémico 3/2019 A(H3N2)/A(H1N1)pdm09
+La Rioja 4/2019 NA 0-4 años Medio Epidémico 6/2019 A(H3N2)/A(H1N1)pdm09
+Global nacional 4/2019 NA 0-4 años Medio Epidémico 4/2019 A(H3N2)/A(H1N1)pdm09

@@ -1,0 +1,65 @@
+{
+ "comprobacion_nov_ene": 0.969,
+ "de_anomalia": {
+  "nov_ene": 0.33,
+  "oct_dic": 0.41
+ },
+ "p5_p95_nov_ene": [
+  -0.54,
+  0.62
+ ],
+ "a_nov_ene": {
+  "efecto": {
+   "beta": 1.53,
+   "lo": 0.27,
+   "hi": 2.8,
+   "p": 0.0174,
+   "n": 112
+  },
+  "utilidad": {
+   "mae_base": 2.31,
+   "mae_humedad": 1.76,
+   "diferencia": -0.55,
+   "lo": -0.95,
+   "hi": -0.21,
+   "placebo_media": 0.03,
+   "p_placebo": 0.005
+  }
+ },
+ "a_oct_dic": {
+  "efecto": {
+   "beta": 0.99,
+   "lo": -0.1,
+   "hi": 2.08,
+   "p": 0.0748,
+   "n": 112
+  },
+  "utilidad": {
+   "mae_base": 2.31,
+   "mae_humedad": 2.26,
+   "diferencia": -0.05,
+   "lo": -0.43,
+   "hi": 0.3,
+   "placebo_media": 0.03,
+   "p_placebo": 0.005
+  }
+ },
+ "a_pre_pico": {
+  "efecto": {
+   "beta": -1.35,
+   "lo": -3.36,
+   "hi": 0.65,
+   "p": 0.1844,
+   "n": 112
+  },
+  "utilidad": {
+   "mae_base": 2.31,
+   "mae_humedad": 2.4,
+   "diferencia": 0.09,
+   "lo": -0.03,
+   "hi": 0.28,
+   "placebo_media": 0.02,
+   "p_placebo": 0.99
+  }
+ }
+}
